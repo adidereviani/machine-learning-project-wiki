@@ -1,5 +1,4 @@
-# Welcom to our Machine Learning Wiki Project
+# Welcom to Our Machine Learning Wiki Project
 ![paint software](WIKI.png)
-# Adi Dereviani
-___________________________________________________
-# Liron Levi
+## Adi Dereviani
+## Liron Levi
